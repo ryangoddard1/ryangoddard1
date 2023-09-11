@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryan-goddard/">Cloud Enthusiast, IT Specialist</a>
+<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryan-goddard/">Cloud Enthusiast / IT Specialist</a>
 
 <h2>👨‍💻Cloud Projects:</h2>
 
