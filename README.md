@@ -4,9 +4,38 @@
 
 - <b>Cloud Homelab</b>
   - [Simulated environment within AWS](https://github.com/ryangoddard1/TBD)
+ 
+  <b>Cloud Resume Challenge</b>
+  - ryangoddard.cloud
 
 <h2>🏅Certifications</h2>
-
+<style>
+                                                    b.no-spacing {
+                                                        margin: 0;
+                                                        padding: 0;
+                                                    }
+                                                </style>
+                                                
+                                                <b class="no-spacing">AWS</b>:
+                                                <ul>
+                                                    <li>SysOps Administrator</li>
+                                                    <li>Solutions Architect</li>
+                                                    <li>Cloud Practitioner</li>
+                                                </ul>
+                                                <b class="no-spacing">CompTIA</b>:
+                                                <ul>
+                                                    <li>Cloud+</li>
+                                                    <li>Project+</li>
+                                                    <li>Security+</li>
+                                                    <li>Network+</li>
+                                                    <li>A+</li>
+                                                </ul>
+                                                <b class="no-spacing">Misc</b>:
+                                                <ul>
+                                                    <li>ITIL v4</li>
+                                                    <li>LPI Linux Essentials</li>
+                                                    <li>CIW Site Development Associate</li>
+                                                </ul>
 -
 
 <h2> 🤳 Connect with me:</h2>
@@ -18,7 +47,6 @@
 [linkedin]: https://www.linkedin.com/in/ryan-goddard/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
