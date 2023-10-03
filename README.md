@@ -3,8 +3,8 @@
 
 <h2>👨‍💻Cloud Projects:</h2>
 
-- <b>Cloud Homelab</b>
-  - [Simulated environment within AWS](https://github.com/ryangoddard1/TBD)
+- <b>Cloud Homelab (Simulated AWS Environment)</b>
+  - <a href="https://github.com/ryangoddard1/wordpress-ec2">Part 1</a>
  
 - <b>Cloud Resume Challenge</b>
   - <a href="https://github.com/ryangoddard1/aws-cloud-resume-challenge">GitHub page (links to site)</a>
