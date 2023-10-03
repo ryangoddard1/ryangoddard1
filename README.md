@@ -8,5 +8,5 @@
   - 
  
 - <b>Cloud Resume Challenge</b>
-  - Site: https://ryangoddard.cloud
+  - <a href="https://ryangoddard.cloud">Website</a>
   - <a href="https://github.com/ryangoddard1/aws-cloud-resume-challenge">GitHub page</a>
