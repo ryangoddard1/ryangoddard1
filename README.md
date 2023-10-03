@@ -10,3 +10,6 @@
 - <b>Cloud Resume Challenge</b>
   - <a href="https://ryangoddard.cloud">Website</a>
   - <a href="https://github.com/ryangoddard1/aws-cloud-resume-challenge">GitHub page</a>
+
+- <b>CI/CD Invalidate CloudFront Distribution Cache</b>
+  - <a href="https://github.com/ryangoddard1/s3-invalidate-cloudfront-distro">GitHub page</a>
