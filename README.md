@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan!</h1> <br/>
+<h1>Hi, I'm Ryan!</h1>
 <h2><a href="https://www.linkedin.com/in/ryan-goddard/">Cloud Enthusiast / IT Specialist</a></h2>
 <p>If you stumbled upon this page and are looking for anything about me other than GitHub stuff, click <a href="https://ryangoddard.cloud">here</a>.</p>
 
