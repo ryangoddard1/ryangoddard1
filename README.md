@@ -5,7 +5,7 @@
 <h2>👨‍💻Cloud Projects:</h2>
 
 - <b>Cloud Homelab (Simulated AWS Environment)</b>
-  - <a href="https://github.com/ryangoddard1/wordpress-ec2">Part 1</a>(Hosting Wordpress on an EC2 Server w/ subdomain)
+  - <a href="https://github.com/ryangoddard1/wordpress-ec2">Part 1</a> - Hosting Wordpress on an EC2 Server w/ subdomain
   - 
  
 - <b>Cloud Resume Challenge</b>
